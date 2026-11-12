@@ -1,0 +1,16 @@
+# Derleme çıktıları
+out/
+bin/
+*.class
+
+# IDE dosyaları
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
